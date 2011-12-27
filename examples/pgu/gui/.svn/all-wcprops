@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/317/trunk/examples/pgu/gui
+END
+surface.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/317/trunk/examples/pgu/gui/surface.py
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/317/trunk/examples/pgu/gui/misc.py
+END
+group.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/trunk/examples/pgu/gui/group.py
+END
+dialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/317/trunk/examples/pgu/gui/dialog.py
+END
+input.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/trunk/examples/pgu/gui/input.py
+END
+pguglobals.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/317/trunk/examples/pgu/gui/pguglobals.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/317/trunk/examples/pgu/gui/__init__.py
+END
+deprecated.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/317/trunk/examples/pgu/gui/deprecated.py
+END
+style.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/trunk/examples/pgu/gui/style.py
+END
+theme.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/trunk/examples/pgu/gui/theme.py
+END
+form.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/317/trunk/examples/pgu/gui/form.py
+END
+area.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/317/trunk/examples/pgu/gui/area.py
+END
+button.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/317/trunk/examples/pgu/gui/button.py
+END
+layout.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/317/trunk/examples/pgu/gui/layout.py
+END
+textarea.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/317/trunk/examples/pgu/gui/textarea.py
+END
+document.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/317/trunk/examples/pgu/gui/document.py
+END
+select.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/317/trunk/examples/pgu/gui/select.py
+END
+app.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/317/trunk/examples/pgu/gui/app.py
+END
+basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/trunk/examples/pgu/gui/basic.py
+END
+keysym.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/317/trunk/examples/pgu/gui/keysym.py
+END
+container.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/317/trunk/examples/pgu/gui/container.py
+END
+slider.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/317/trunk/examples/pgu/gui/slider.py
+END
+widget.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/317/trunk/examples/pgu/gui/widget.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/292/trunk/examples/pgu/gui/readme.txt
+END
+const.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/trunk/examples/pgu/gui/const.py
+END
+menus.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/trunk/examples/pgu/gui/menus.py
+END
+table.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/trunk/examples/pgu/gui/table.py
+END

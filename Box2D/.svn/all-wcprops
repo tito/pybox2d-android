@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/346/trunk/Box2D
+END
+Box2D_printing.i
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/331/trunk/Box2D/Box2D_printing.i
+END
+pybox2d_license_header.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/292/trunk/Box2D/pybox2d_license_header.txt
+END
+Box2D_misc.i
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/346/trunk/Box2D/Box2D_misc.i
+END
+Box2D_contact.i
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/320/trunk/Box2D/Box2D_contact.i
+END
+Box2D_kwargs.i
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/346/trunk/Box2D/Box2D_kwargs.i
+END
+Box2D_typemaps.i
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/320/trunk/Box2D/Box2D_typemaps.i
+END
+Box2D_bodyfixture.i
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/331/trunk/Box2D/Box2D_bodyfixture.i
+END
+Box2D_debugdraw.i
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/307/trunk/Box2D/Box2D_debugdraw.i
+END
+Box2D_joints.i
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/324/trunk/Box2D/Box2D_joints.i
+END
+Box2D_userdata.i
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/292/trunk/Box2D/Box2D_userdata.i
+END
+Box2D_doxygen.i
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/319/trunk/Box2D/Box2D_doxygen.i
+END
+Box2D_inline.i
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/320/trunk/Box2D/Box2D_inline.i
+END
+Box2D_dir.i
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/319/trunk/Box2D/Box2D_dir.i
+END
+Box2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/319/trunk/Box2D/Box2D.h
+END
+Box2D.i
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/319/trunk/Box2D/Box2D.i
+END
+Box2D_shapes.i
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/319/trunk/Box2D/Box2D_shapes.i
+END
+Box2D_world.i
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/331/trunk/Box2D/Box2D_world.i
+END
+Box2D-License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/292/trunk/Box2D/Box2D-License.txt
+END
+Box2D_math.i
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/322/trunk/Box2D/Box2D_math.i
+END

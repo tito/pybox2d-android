@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/346/trunk/devel
+END
+windows_release.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/346/trunk/devel/windows_release.py
+END
+find_results
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/346/trunk/devel/find_results
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/346/trunk/devel/test.py
+END
+find_extended.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/346/trunk/devel/find_extended.py
+END
+init_kwargs.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/346/trunk/devel/init_kwargs.py
+END
+dict_replacement.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/346/trunk/devel/dict_replacement.py
+END
+all_classes.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/346/trunk/devel/all_classes.py
+END
